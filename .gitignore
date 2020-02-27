@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 .vscode
 __pycache__
 FlaskBlog/__pycache__/
+=======
+__pycache__/
+.vscode/
+FlaskBlog/__pycache__/
+>>>>>>> develop
